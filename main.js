@@ -1,4 +1,3 @@
-import './main.sass'
 
 const clickBtn = document.querySelector("#click")
 
